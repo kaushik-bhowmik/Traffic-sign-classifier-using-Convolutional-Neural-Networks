@@ -5,4 +5,3 @@ The pipeline of the project:
 2. Exploring the dataset. 
 3. Designing the model architecture(CNN).
 4. Training, validation and testing of the model(CNN).
-5. 
